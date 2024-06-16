@@ -4,10 +4,26 @@ This repository contains the code and SQL queries used for the Social Media Anal
 
 ## Project Overview
 
-This repository contains the code and SQL queries used to analyze a social media platform. The goal is to answer several specific ad hoc requests using SQL queries. The data used in this project encompasses user interactions on a social media platform, allowing for comprehensive analysis of comments, likes, login, follows, posts, hashtags, photos.
+The goal of this Project is to answer several specific ad hoc requests using SQL queries. The data used in this project encompasses user interactions on a social media platform, allowing for comprehensive analysis of comments, likes, login, follows, posts, hashtags, photos.
+
+## Problem Statement
+
+1. What is the average number of posts per user?
+2. 2. What is the location of each user?
+3. Which are the most followed hashtags?
+4. Which are the most used hashtags?
+5. Who is the most inactive user?
+6. What is the average post count per user?
+
 
 ## Project Structure
-SQL Files: The SQL queries for each of the analysis requests can be found in the SQL files. These queries are designed to extract and manipulate the necessary data to answer specific questions.
+- SQL Files: The SQL queries for each of the analysis requests can be found in the SQL files. These queries are designed to extract and manipulate the necessary data to answer specific questions.
+
+
+## Database and Tools
+- MySQL
+- MySQL Workbench 8.0
+
 
 ## Conclusion
 
