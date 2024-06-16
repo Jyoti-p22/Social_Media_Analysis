@@ -1,6 +1,6 @@
 ## Social_Media_Analysis
 
-This repository contains the code and SQL queries used for the Social Media Analysis project. This project is part of the Data Analytics Course at SevenMentor. In this project, we work with a dataset related to social media interactions. The goal is to analyze various aspects of a social media platform, including user interactions such as comments, likes, follows, posts, hashtags, photos, and videos.
+This repository contains the SQL queries used for the Social Media Analysis project. This project is part of the Data Analytics Course at SevenMentor. In this project, we work with a dataset related to social media interactions. The goal is to analyze various aspects of a social media platform, including user interactions such as comments, likes, follows, posts, hashtags, photos, and videos.
 
 ## Project Overview
 
