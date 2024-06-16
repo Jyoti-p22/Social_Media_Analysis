@@ -9,7 +9,7 @@ The goal of this Project is to answer several specific ad hoc requests using SQL
 ## Problem Statement
 
 1. What is the average number of posts per user?
-2. 2. What is the location of each user?
+2. What is the location of each user?
 3. Which are the most followed hashtags?
 4. Which are the most used hashtags?
 5. Who is the most inactive user?
